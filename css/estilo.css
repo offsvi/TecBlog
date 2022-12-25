@@ -68,7 +68,7 @@ a {
     text-decoration: none;
 }
 
-a:link, #area-cabecalho a:visited {
+a:link, a:visited {
     color: #FFF;
     padding: 8px 12px;
 }
